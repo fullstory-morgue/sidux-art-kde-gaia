@@ -14,10 +14,10 @@
    id="svg5550"
    sodipodi:version="0.32"
    inkscape:version="0.45"
-   sodipodi:docbase="/home/bernie/svn/svn.berlios.de-fullstory/sidux-art-wallpaper-gaia/trunk/.source"
-   sodipodi:docname="gaia-cle-coloured.svg"
+   sodipodi:docbase="/home/bernie/svn/svn.berlios.de-fullstory/sidux-art-kde-gaia/trunk/ksplash/.source"
+   sodipodi:docname="gaia-cle-coloured-ksplash.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   sodipodi:modified="true">
+   sodipodi:modified="TRUE">
   <defs
      id="defs5552">
     <filter
@@ -105,14 +105,6 @@
          inkscape:collect="always"
          stdDeviation="32.423215"
          id="feGaussianBlur3425" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter4964">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="2.0603623"
-         id="feGaussianBlur4966" />
     </filter>
     <filter
        inkscape:collect="always"
@@ -678,15 +670,15 @@
      borderopacity="0.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="0"
-     inkscape:zoom="0.24748737"
+     inkscape:zoom="0.69999999"
      inkscape:cx="897.49826"
-     inkscape:cy="567.33869"
+     inkscape:cy="224.48154"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer7"
      inkscape:window-width="1272"
      inkscape:window-height="992"
      inkscape:window-x="1280"
-     inkscape:window-y="0" />
+     inkscape:window-y="3" />
   <metadata
      id="metadata5555">
     <rdf:RDF>
@@ -705,7 +697,7 @@
      style="display:inline">
     <g
        id="g5741"
-       transform="matrix(0.997069,0,0,0.9964412,3.4427174,-0.2701305)"
+       transform="matrix(0.997069,0,0,0.9964412,1.0904705,1.8725733)"
        inkscape:export-filename="/home/bernie/svn/svn.berlios.de-fullstory/sidux-art-wallpaper/trunk/sidux.png"
        inkscape:export-xdpi="78.739998"
        inkscape:export-ydpi="78.739998">
@@ -856,14 +848,18 @@
   <g
      inkscape:groupmode="layer"
      id="layer7"
-     inkscape:label="dark screen">
+     inkscape:label="dark screen"
+     style="display:inline">
     <rect
-       y="-75.448914"
-       x="-429.92969"
-       height="1203.26"
-       width="1603.9539"
+       y="-74.020325"
+       x="-427.7868"
+       height="1200.4028"
+       width="1599.6681"
        id="rect3384"
-       style="opacity:0.84659095;fill:#655d45;fill-opacity:0.66480444;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+       style="opacity:0.84659095;fill:#655d45;fill-opacity:0.66480444;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       inkscape:export-filename="/home/bernie/svn/svn.berlios.de-fullstory/sidux-art-kde-gaia/trunk/ksplash/Background.jpg.png"
+       inkscape:export-xdpi="57.599998"
+       inkscape:export-ydpi="57.599998" />
     <rect
        y="-61.933533"
        x="-411.91357"
