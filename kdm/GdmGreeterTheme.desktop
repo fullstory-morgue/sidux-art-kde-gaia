@@ -4,5 +4,5 @@ Copyright=GPL
 Description="sidux 2007-03" theme based loosely on "true-nature" by Stephen Spies
 Encoding=UTF-8
 Greeter=config.xml
-Name=sidux
+Name=sidux-gaia
 Screenshot=screenshot.png
