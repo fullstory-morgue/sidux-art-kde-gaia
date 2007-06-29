@@ -1,0 +1,39 @@
+[KSplash Theme: sidux-test2]
+Name = sidux-test2
+Description = Fading splash screen for sidux 2007-03 based loosely on MoodinKDE by Christian Leh <moodwrod@web.de>
+Version = 1.0
+Author = Bernard Gray
+Homepage = http://www.sidux.com
+Engine = Moodin
+
+BeginOpacity = 0.1
+BaseResolution = 1024,768
+
+UseIconSet = true
+IconSetSize = 32
+
+Image1 = kcmsystem
+Image2 = kcontrol
+Image3 = kcmpci
+Image7 = kmenuedit
+Image8 = kmenu
+
+ImageCoords1 = 365,420
+ImageCoords2 = 402,435
+ImageCoords3 = 439,435
+ImageCoords4 = 476,435
+ImageCoords5 = 513,435
+ImageCoords6 = 550,435
+ImageCoords7 = 587,435
+ImageCoords8 = 627,435
+
+LineUpImages = false
+
+Labels = 1
+Label1 = Welcome
+LabelFont1 = Trebuchet MS,48,-1,0,0,0
+LabelCoords1 = -1,350
+
+StatusCoords = -1,400
+
+ImageOffset1 = 0,20

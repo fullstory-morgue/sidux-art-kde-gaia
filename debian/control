@@ -1,0 +1,13 @@
+Source: sidux-art-kde-gaia
+Section: graphics
+Priority: extra
+Maintainer: Bernard Gray <bernard.gray@gmail.com>
+Build-Depends: cdbs, debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: sidux-art-kde-gaia
+Architecture: all
+Depends: ksplash, kdm, ksplash-engine-moodin
+Description: kde theme for sidux 2007-03 gaia
+ Provides ksplash and kdm themes 
+ for sidux 2007-03 Gaia release
