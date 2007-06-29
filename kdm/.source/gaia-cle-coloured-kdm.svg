@@ -14,10 +14,10 @@
    id="svg5550"
    sodipodi:version="0.32"
    inkscape:version="0.45"
-   sodipodi:docbase="/home/bernie/svn/svn.berlios.de-fullstory/sidux-art-kde-gaia/trunk/ksplash/.source"
-   sodipodi:docname="gaia-cle-coloured-ksplash.svg"
+   sodipodi:docbase="/home/bernie/svn/svn.berlios.de-fullstory/sidux-art-kde-gaia/trunk/kdm/.source"
+   sodipodi:docname="gaia-cle-coloured-kdm.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   sodipodi:modified="true">
+   sodipodi:modified="TRUE">
   <defs
      id="defs5552">
     <filter
@@ -670,11 +670,11 @@
      borderopacity="0.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="0"
-     inkscape:zoom="0.69999999"
-     inkscape:cx="897.49826"
+     inkscape:zoom="0.35"
+     inkscape:cx="563.09969"
      inkscape:cy="224.48154"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer7"
      inkscape:window-width="1272"
      inkscape:window-height="992"
      inkscape:window-x="1280"
@@ -856,7 +856,10 @@
        height="1200.4028"
        width="1599.6681"
        id="rect3384"
-       style="opacity:0.84659095;fill:#655d45;fill-opacity:0.66480444;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+       style="opacity:0.84659095;fill:#655d45;fill-opacity:0.66480444;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       inkscape:export-filename="/home/bernie/svn/svn.berlios.de-fullstory/sidux-art-kde-gaia/trunk/kdm/background.png"
+       inkscape:export-xdpi="57.61195"
+       inkscape:export-ydpi="57.61195" />
     <rect
        y="-61.933533"
        x="-411.91357"
