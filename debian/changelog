@@ -1,9 +1,13 @@
 sidux-art-kde-gaia (0.0.1) unstable; urgency=low
 
+  [ Bernard Gray ]
   * Initial Release.
   * fix ksplash and kdm theme naming to suit per release naming scheme
   * remove temp rubbish accidentally left in kdm
   * sync ksplash and kdm source with wallpaper
-  * update bitmaps to new sources for kdm and ksplash 
+  * update bitmaps to new sources for kdm and ksplash
 
- -- Bernard Gray <bernard.gray@gmail.com>  Fri, 29 Jun 2007 22:29:15 +1000
+  [ Kel Modderman ]
+  * Add color schemes.
+
+ -- Kel Modderman <kel@otaku42.de>  Sat, 30 Jun 2007 00:15:59 +1000
