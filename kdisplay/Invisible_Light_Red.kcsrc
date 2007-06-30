@@ -1,5 +1,5 @@
 [Color Scheme]
-Name=Invisible Light Gold
+Name=Invisible Light Red (by knithx)
 activeBackground=239,239,239
 activeBlend=239,239,239
 activeForeground=0,0,0
@@ -19,8 +19,8 @@ inactiveFrame=239,239,239
 inactiveHandle=239,239,239
 inactiveTitleBtnBg=239,239,239
 linkColor=0,0,192
-selectBackground=229,226,198
-selectForeground=0,0,0
+selectBackground=183,73,73
+selectForeground=255,255,255
 shadeSortColumn=false
 visitedLinkColor=128,0,128
 windowBackground=255,255,255
