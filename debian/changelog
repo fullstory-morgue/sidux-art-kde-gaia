@@ -1,4 +1,4 @@
-sidux-art-kde-gaia (0.0.2) UNRELEASED; urgency=low
+sidux-art-kde-gaia (0.0.2) unstable; urgency=low
 
   [ Kel Modderman ]
   * Add color schemes.
@@ -9,7 +9,7 @@ sidux-art-kde-gaia (0.0.2) UNRELEASED; urgency=low
 
  -- Bernard Gray <bernard.gray@gmail.com>  Sat, 30 Jun 2007 00:35:10 +1000
 
-sidux-art-kde-gaia (0.0.1) unstable; urgency=low
+sidux-art-kde-gaia (0.0.1) UNRELEASED; urgency=low
 
   [ Bernard Gray ]
   * Initial Release.
