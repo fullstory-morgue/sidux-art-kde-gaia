@@ -1,3 +1,9 @@
+sidux-art-kde-gaia (0.0.4) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 01 Jul 2007 02:00:28 +0200
+
 sidux-art-kde-gaia (0.0.3) unstable; urgency=low
 
   * kdisplay color scheme update from knithx. Add info to debian/copyright
