@@ -1,9 +1,5 @@
-sidux-art-kde-gaia (0.0.4) UNRELEASED; urgency=low
+sidux-art-kde-gaia (0.0.4) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * adjust ksplash text colours to match kdm theme
   * update preview for new text colours
   * modify font size and welcome msg for ksplash
