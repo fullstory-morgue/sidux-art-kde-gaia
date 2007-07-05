@@ -1,5 +1,5 @@
-[KSplash Theme: sidux-gaia]
-Name = sidux-gaia
+[KSplash Theme: sidux-moodin-hack]
+Name = sidux-moodin-hack
 Description = Fading splash screen for sidux 2007-03 based loosely on MoodinKDE by Christian Leh <moodwrod@web.de>
 Version = 1.0
 Author = Bernard Gray
@@ -31,12 +31,13 @@ ImageCoords8 = 627,435
 LineUpImages = false
 
 Labels = 1
-Label1 = Welcome
-LabelFont1 = Trebuchet MS,48,-1,0,0,0
+Label1 = Please Wait
+LabelFont1 = Verdana,18,-1,0,0,0
 LabelColor1 = #AFAA8E
 LabelCoords1 = -1,350
 
 StatusCoords = -1,400
 StatusColor = #AFAA8E
+StatusFont = Verdana,11,-1,0,0,0
 
 ImageOffset1 = 0,20
