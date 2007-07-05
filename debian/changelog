@@ -1,9 +1,5 @@
-sidux-art-kde-gaia (0.0.5) UNRELEASED; urgency=low
+sidux-art-kde-gaia (0.0.5) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * resolve name issue in ksplash 
 
  -- Bernard Gray <bernard.gray@gmail.com>  Fri, 06 Jul 2007 09:21:05 +1000
