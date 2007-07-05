@@ -11,6 +11,7 @@ BaseResolution = 1024,768
 
 UseIconSet = true
 IconSetSize = 32
+LabelShadow = false
 
 Image1 = kcmsystem
 Image2 = kcontrol
@@ -32,8 +33,10 @@ LineUpImages = false
 Labels = 1
 Label1 = Welcome
 LabelFont1 = Trebuchet MS,48,-1,0,0,0
+LabelColor1 = #AFAA8E
 LabelCoords1 = -1,350
 
 StatusCoords = -1,400
+StatusColor = #AFAA8E
 
 ImageOffset1 = 0,20
