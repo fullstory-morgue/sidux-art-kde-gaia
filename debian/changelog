@@ -6,9 +6,10 @@ sidux-art-kde-gaia (0.0.4) UNRELEASED; urgency=low
   [ Bernard Gray ]
   * adjust ksplash text colours to match kdm theme
   * update preview for new text colours
-  * modify font size and welcome msg for ksplash 
+  * modify font size and welcome msg for ksplash
+  * update preview for changes 
 
- -- Bernard Gray <bernard.gray@gmail.com>  Thu, 05 Jul 2007 17:03:53 +1000
+ -- Bernard Gray <bernard.gray@gmail.com>  Thu, 05 Jul 2007 17:06:09 +1000
 
 sidux-art-kde-gaia (0.0.3) unstable; urgency=low
 
