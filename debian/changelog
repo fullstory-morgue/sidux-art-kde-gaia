@@ -1,3 +1,9 @@
+sidux-art-kde-gaia (0.0.7) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 25 Jul 2007 03:01:48 +0200
+
 sidux-art-kde-gaia (0.0.6) unstable; urgency=low
 
   * make widescreen kdm source (by popular demand) 
