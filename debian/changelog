@@ -1,8 +1,13 @@
 sidux-art-kde-gaia (0.0.8) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 25 Jul 2007 03:20:29 +0200
+  [ Bernard Gray ]
+  * add kdm wide background binary
+  * add ksplash wide background binary and source svg
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Wed, 25 Jul 2007 11:41:35 +1000
 
 sidux-art-kde-gaia (0.0.7) unstable; urgency=low
 
