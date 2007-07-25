@@ -1,9 +1,5 @@
-sidux-art-kde-gaia (0.0.7) UNRELEASED; urgency=low
+sidux-art-kde-gaia (0.0.7) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * add the sources this time (whoops) 
 
  -- Bernard Gray <bernard.gray@gmail.com>  Wed, 25 Jul 2007 11:12:16 +1000
