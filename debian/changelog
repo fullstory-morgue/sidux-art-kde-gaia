@@ -1,9 +1,5 @@
-sidux-art-kde-gaia (0.0.8) UNRELEASED; urgency=low
+sidux-art-kde-gaia (0.0.8) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * add kdm wide background binary
   * add ksplash wide background binary and source svg
 
