@@ -1,9 +1,5 @@
-sidux-art-kde-gaia (0.0.9) UNRELEASED; urgency=low
+sidux-art-kde-gaia (0.0.9) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * cathbard's relative placement of login text and boxes - for widesc support
   * merge username/pw label and entry boxes into a single item
 
