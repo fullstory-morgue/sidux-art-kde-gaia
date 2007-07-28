@@ -1,8 +1,13 @@
 sidux-art-kde-gaia (0.0.9) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 25 Jul 2007 12:33:28 +0200
+  [ Bernard Gray ]
+  * cathbard's relative placement of login text and boxes - for widesc support
+  * merge username/pw label and entry boxes into a single item
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Sat, 28 Jul 2007 13:20:44 +1000
 
 sidux-art-kde-gaia (0.0.8) unstable; urgency=low
 

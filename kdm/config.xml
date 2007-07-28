@@ -22,12 +22,11 @@
 		
 		<item type="pixmap">
 			<normal file="login.png"/>
-			<pos anchor="c" x="50%" y="50%" width="360" height="280"/>
+			<pos anchor="c" x="50%" y="50%" width="34%" height="35%"/>
 		</item>	
 		
-		
 		<item type="rect">		
-			<pos anchor="c" x="45%" y="57%" width="180" height="180"/> 			
+			<pos anchor="c" x="54%" y="57%" width="30%" height="18%"/>
 			
 			<!-- username-label -->
 			<item type="label">
@@ -42,34 +41,29 @@
 				<normal color="#AFAA8E" font="Verdana 12"/>
 				<stock type="password-label"/>
 			</item>
-		</item>
-		
-		
-		<item type="rect">		
-			<pos anchor="c" x="60%" y="57%" width="150" height="180"/>
-			
+				
 			<!-- username-entry -->
 			<item type="entry" id="user-entry">
-				<pos anchor="c" x="0%" y="30%" height="24" width="120"/>
+				<pos anchor="c" x="50%" y="30%" height="13%" width="41%"/>
 			</item>
 			
 			<!-- password-entry -->
 			<item type="entry" id="pw-entry">
-				<pos anchor="c" x="0%" y="50%" height="24" width="120"/>
+				<pos anchor="c" x="50%" y="50%" height="13%" width="41%"/>
 			</item>
 		</item>			
 		
 		<!-- Login-Error -->
 		<item type="label" id="pam-error">
-			<pos anchor="c" x="50%" y="63%"/>
-			<normal color="#FFFFFF" font="Verdana 12"/>
+			<pos anchor="c" x="50%" y="61%"/>
+			<normal color="#a20000" font="Verdana 13"/>
 			<text></text>
 		</item>
 		
 		<!-- capslock-warning -->
 		<item type="label" id="caps-lock-warning">
-			<pos anchor="c" x="50%" y="61%"/>
-			<normal color="#FFFFFF" font="Verdana 12"/>
+			<pos anchor="c" x="50%" y="50%"/>
+			<normal color="#001692" font="Verdana 11"/>
 			<stock type="caps-lock-warning"/>
 		</item>
 	</item>
@@ -116,7 +110,7 @@
 	</item>
 	
 	<item type="rect" id="session_button" button="true">
-		<pos x="87%" y="92%" width="32" height="60"/>
+		<pos x="81%" y="92%" width="5%" height="10%"/>
 		<item type="pixmap">
 			<pos anchor="c" y="36" x="0%"/>
 			<normal file="session_normal.png"/>
@@ -135,7 +129,7 @@
 	<!-- menu-button -->
 	<item type="rect" id="system_button" button="true">
 		<show modes="console" type="system"/>
-		<pos x="93%" y="92%" width="32" height="60"/>
+		<pos x="93%" y="92%" width="5%" height="10%"/>
 		<item type="pixmap" button="true">
 			<pos anchor="c" y="36" x="0%"/>
 			<normal file="system_normal.png"/>
