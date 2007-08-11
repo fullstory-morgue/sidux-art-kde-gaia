@@ -1,8 +1,14 @@
 sidux-art-kde-gaia (0.0.10) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 28 Jul 2007 09:12:30 +0200
+  [ Bernard Gray ]
+  * kdm - use discrete image that doesn't scale for sidux logo in config
+  * kdm - add sidux log bitmap and source
+
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Sat, 11 Aug 2007 18:29:04 +1000
 
 sidux-art-kde-gaia (0.0.9) unstable; urgency=low
 
