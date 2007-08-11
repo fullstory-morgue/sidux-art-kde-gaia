@@ -6,9 +6,9 @@ sidux-art-kde-gaia (0.0.10) UNRELEASED; urgency=low
   [ Bernard Gray ]
   * kdm - use discrete image that doesn't scale for sidux logo in config
   * kdm - add sidux log bitmap and source
+  * kdm - make 1600x1200 default res for background 
 
-
- -- Bernard Gray <bernard.gray@gmail.com>  Sat, 11 Aug 2007 18:29:04 +1000
+ -- Bernard Gray <bernard.gray@gmail.com>  Sat, 11 Aug 2007 18:36:20 +1000
 
 sidux-art-kde-gaia (0.0.9) unstable; urgency=low
 
