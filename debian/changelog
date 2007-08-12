@@ -1,9 +1,5 @@
-sidux-art-kde-gaia (0.0.11) UNRELEASED; urgency=low
+sidux-art-kde-gaia (0.0.11) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * update ksplash to 1600x1200 default res 
 
  -- Bernard Gray <bernard.gray@gmail.com>  Sat, 11 Aug 2007 23:06:59 +1000
