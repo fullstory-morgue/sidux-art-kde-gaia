@@ -4,6 +4,8 @@ Priority: extra
 Maintainer: Bernard Gray <bernard.gray@gmail.com>
 Build-Depends: cdbs, debhelper (>= 5)
 Standards-Version: 3.7.2
+XS-Vcs-Svn: svn://svn.berlios.de/fullstory/sidux-art-kde-gaia/trunk
+XS-Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-art-kde-gaia/trunk/
 
 Package: sidux-art-kde-gaia
 Architecture: all
