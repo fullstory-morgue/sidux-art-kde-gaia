@@ -2,8 +2,9 @@ sidux-art-kde-gaia (0.0.12) UNRELEASED; urgency=low
 
   * NOT RELEASED YET
   * add VCS control headers.
+  * update syntax for Vcs headers in debian/control
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 11 Sep 2007 20:21:04 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 07 Oct 2007 14:47:22 +0200
 
 sidux-art-kde-gaia (0.0.11) unstable; urgency=low
 
