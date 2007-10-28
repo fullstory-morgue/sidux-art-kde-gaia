@@ -3,7 +3,7 @@ Name = sidux-gaia
 Description = Fading splash screen for sidux 2007-03 based loosely on MoodinKDE by Christian Leh <moodwrod@web.de>
 Version = 1.0
 Author = Bernard Gray
-Homepage = http://www.sidux.com
+Homepage = http://sidux.com
 Engine = Moodin
 
 BeginOpacity = 0.1
