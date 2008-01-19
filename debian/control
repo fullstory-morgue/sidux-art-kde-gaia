@@ -2,7 +2,8 @@ Source: sidux-art-kde-gaia
 Section: graphics
 Priority: extra
 Maintainer: Bernard Gray <bernard.gray@gmail.com>
-Build-Depends: cdbs, debhelper (>= 5)
+Uploaders: Stefan Lippers-Hollmann <s.l-h@gmx.de>
+Build-Depends: cdbs, debhelper (>= 6)
 Standards-Version: 3.7.3
 Vcs-Svn: svn://svn.berlios.de/fullstory/sidux-art-kde-gaia/trunk
 Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-art-kde-gaia/trunk/
@@ -10,6 +11,6 @@ Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-art-kde-gaia/trunk/
 Package: sidux-art-kde-gaia
 Architecture: all
 Depends: ksplash, kdm, ksplash-engine-moodin
-Description: kde theme for sidux 2007-03 gaia
+Description: KDE theme for sidux 2007-03 gaia
  Provides ksplash and kdm themes 
  for sidux 2007-03 Gaia release
