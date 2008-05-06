@@ -1,8 +1,8 @@
-sidux-art-kde-gaia (0.7) UNRELEASED; urgency=low
+sidux-art-kde-gaia (0.7) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * switch to the new dh implementation of debhelper 7.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 23 Feb 2008 13:46:02 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 07 May 2008 01:56:08 +0200
 
 sidux-art-kde-gaia (0.6) unstable; urgency=low
 
