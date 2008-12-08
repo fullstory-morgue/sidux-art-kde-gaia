@@ -1,9 +1,8 @@
-sidux-art-kde-gaia (0.9) UNRELEASED; urgency=low
+sidux-art-kde-gaia (0.9) unstable; urgency=low
 
-  * NOT RELEASED YET
   * make lintian happy and depend on ${misc:Depends}.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 08 Dec 2008 02:56:59 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 08 Dec 2008 23:27:52 +0100
 
 sidux-art-kde-gaia (0.8) unstable; urgency=low
 
