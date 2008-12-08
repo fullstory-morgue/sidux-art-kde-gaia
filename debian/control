@@ -11,7 +11,10 @@ Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-art-kde-gaia/trunk/
 Package: sidux-art-kde-gaia
 Architecture: all
 Provides: sidux-art-kde-theme
-Depends: ksplash, kdm, ksplash-engine-moodin
+Depends: ${misc:Depends},
+         ksplash,
+         kdm,
+         ksplash-engine-moodin
 Description: KDE theme for sidux 2007-03 gaia
  Provides ksplash and kdm themes 
  for sidux 2007-03 Gaia release
