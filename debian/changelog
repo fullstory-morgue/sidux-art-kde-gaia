@@ -1,9 +1,9 @@
 sidux-art-kde-gaia (0.13) ORPHANED; urgency=low
 
   * NOT RELEASED YET
-  * temporarily ORPHAN PACKAGE
+  * ORPHAN PACKAGE, moved to sidux-art-legacy.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 07 Apr 2009 23:07:12 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 19 Apr 2009 14:00:26 +0200
 
 sidux-art-kde-gaia (0.12) unstable; urgency=low
 
